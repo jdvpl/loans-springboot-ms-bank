@@ -30,7 +30,7 @@ import jakarta.validation.constraints.Pattern;
 import lombok.AllArgsConstructor;
 
 /**
- * @author Eazy Bytes
+ * @author jdvpl
  */
 
 @Tag(name = "CRUD REST APIs for Loans in EazyBank", description = "CRUD REST APIs in EazyBank to CREATE, UPDATE, FETCH AND DELETE loan details")
